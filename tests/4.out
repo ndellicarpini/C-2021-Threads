@@ -1,0 +1,81 @@
+Seed = 6785 [Read from input file]
+Stage Created: 4 slots initialized
+15 Flamenco Dancer(s) initialized
+8 Juggler(s) initialized
+2 Soloist(s) initialized
+0s | Flamenco Dancer [0] has started on Stage 0
+    They will be performing for 6s
+0s | Flamenco Dancer [1] has started on Stage 1
+    They will be performing for 8s
+0s | Flamenco Dancer [5] has started on Stage 2
+    They will be performing for 3s
+0s | Flamenco Dancer [2] has started on Stage 3
+    They will be performing for 5s
+3s | Flamenco Dancer [5] has finished & is leaving Stage 2
+3s | Flamenco Dancer [11] has started on Stage 2
+    They will be performing for 2s
+5s | Flamenco Dancer [2] has finished & is leaving Stage 3
+5s | Flamenco Dancer [9] has started on Stage 3
+    They will be performing for 6s
+5s | Flamenco Dancer [11] has finished & is leaving Stage 2
+5s | Flamenco Dancer [12] has started on Stage 2
+    They will be performing for 8s
+6s | Flamenco Dancer [0] has finished & is leaving Stage 0
+6s | Flamenco Dancer [3] has started on Stage 0
+    They will be performing for 5s
+8s | Flamenco Dancer [1] has finished & is leaving Stage 1
+8s | Flamenco Dancer [14] has started on Stage 1
+    They will be performing for 4s
+11s | Flamenco Dancer [3] has finished & is leaving Stage 0
+11s | Flamenco Dancer [4] has started on Stage 0
+    They will be performing for 2s
+11s | Flamenco Dancer [9] has finished & is leaving Stage 3
+11s | Flamenco Dancer [6] has started on Stage 3
+    They will be performing for 7s
+12s | Flamenco Dancer [14] has finished & is leaving Stage 1
+12s | Flamenco Dancer [10] has started on Stage 1
+    They will be performing for 6s
+13s | Flamenco Dancer [4] has finished & is leaving Stage 0
+13s | Flamenco Dancer [13] has started on Stage 0
+    They will be performing for 2s
+13s | Flamenco Dancer [12] has finished & is leaving Stage 2
+13s | Flamenco Dancer [8] has started on Stage 2
+    They will be performing for 7s
+15s | Flamenco Dancer [13] has finished & is leaving Stage 0
+15s | Flamenco Dancer [7] has started on Stage 0
+    They will be performing for 2s
+17s | Flamenco Dancer [7] has finished & is leaving Stage 0
+18s | Flamenco Dancer [10] has finished & is leaving Stage 1
+18s | Flamenco Dancer [6] has finished & is leaving Stage 3
+20s | Flamenco Dancer [8] has finished & is leaving Stage 2
+20s | Juggler [0] has started on Stage 0
+    They will be performing for 4s
+20s | Juggler [5] has started on Stage 2
+    They will be performing for 1s
+20s | Juggler [1] has started on Stage 3
+    They will be performing for 6s
+20s | Juggler [6] has started on Stage 1
+    They will be performing for 6s
+21s | Juggler [5] has finished & is leaving Stage 2
+21s | Juggler [3] has started on Stage 2
+    They will be performing for 2s
+23s | Juggler [3] has finished & is leaving Stage 2
+23s | Juggler [2] has started on Stage 2
+    They will be performing for 5s
+24s | Juggler [0] has finished & is leaving Stage 0
+24s | Juggler [7] has started on Stage 0
+    They will be performing for 5s
+26s | Juggler [1] has finished & is leaving Stage 3
+26s | Juggler [4] has started on Stage 3
+    They will be performing for 6s
+26s | Juggler [6] has finished & is leaving Stage 1
+28s | Juggler [2] has finished & is leaving Stage 2
+29s | Juggler [7] has finished & is leaving Stage 0
+32s | Juggler [4] has finished & is leaving Stage 3
+32s | Soloist [1] has started on Stage 0
+    They will be performing for 5s
+37s | Soloist [1] has finished & is leaving Stage 0
+37s | Soloist [0] has started on Stage 0
+    They will be performing for 3s
+40s | Soloist [0] has finished & is leaving Stage 0
+40s | The Spectacular is Finished
